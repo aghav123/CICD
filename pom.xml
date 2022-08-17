@@ -1,7 +1,7 @@
 <project>
-  <modelversion>4.0.0</modelversion>
-  <groupid>maven.co</groupid>
-  <artifactid>hellowolrld</artifactid>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>maven.co</groupId>
+  <artifactId>hellowolrld</artifactId>
   <version>1.0</version>
   <packaging>war</packaging>
 </project>
