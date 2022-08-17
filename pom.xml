@@ -3,5 +3,5 @@
   <groupId>maven.co</groupId>
   <artifactId>hellowolrld</artifactId>
   <version>1.0</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
 </project>
